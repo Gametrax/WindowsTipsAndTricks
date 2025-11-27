@@ -40,7 +40,7 @@ ms-settings:phone
 ms-settings:about
 ```
 
----
+
 
 ## 🌐 **Network & Internet**
 
@@ -61,7 +61,7 @@ ms-settings:network-proxy
 ms-settings:datausage
 ```
 
----
+
 
 ## 📱 **Bluetooth & Devices**
 
@@ -77,7 +77,7 @@ ms-settings:deviceusage
 ms-settings:autoplay
 ```
 
----
+
 
 ## 🎨 **Personalization**
 
@@ -95,7 +95,7 @@ ms-settings:personalization-start
 ms-settings:personalization-taskbar
 ```
 
----
+
 
 ## 🔐 **Accounts**
 
@@ -111,7 +111,7 @@ ms-settings:family-group
 ms-settings:familyandotherusers
 ```
 
----
+
 
 ## 🌍 **Time & Language**
 
@@ -122,7 +122,7 @@ ms-settings:language
 ms-settings:speech
 ```
 
----
+
 
 ## 🔏 **Privacy**
 
@@ -147,7 +147,7 @@ ms-settings:privacy-speechtyping
 ms-settings:privacy-customdevices
 ```
 
----
+
 
 ## 🎮 **Gaming**
 
@@ -159,7 +159,7 @@ ms-settings:gaming-gamemode
 ms-settings:gaming-xboxnetworking
 ```
 
----
+
 
 ## 🛠️ **Ease of Access / Accessibility**
 
@@ -177,7 +177,7 @@ ms-settings:easeofaccess-speech
 ms-settings:easeofaccess-audio
 ```
 
----
+
 
 ## 🔄 **Update & Security**
 
@@ -195,7 +195,6 @@ ms-settings:findmydevice
 ms-settings:windowsinsider
 ```
 
----
 
 ## 🧩 **Apps**
 
@@ -207,7 +206,6 @@ ms-settings:maps-downloadmaps
 ms-settings:optionalfeatures
 ```
 
----
 
 ## 🖥️ **Search**
 
@@ -218,7 +216,7 @@ ms-settings:search-moredetails
 ms-settings:search-windows
 ```
 
----
+
 
 ## 📞 **Phone Link / Mobile**
 
@@ -227,7 +225,7 @@ ms-settings:mobile-devices
 ms-settings:mobile-devices-addphone
 ```
 
----
+
 
 ## 📡 **Casting / Miracast**
 
@@ -236,7 +234,7 @@ ms-settings:connect
 ms-settings:quiethours
 ```
 
----
+
 
 ## 🧳 **Advanced / Hidden**
 
