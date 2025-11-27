@@ -14,7 +14,6 @@ Ideal for:
 * Troubleshooting
 * YouTube Shorts / Reels / TikTok tech content
 
----
 
 ## 🚀 **What’s Inside**
 
