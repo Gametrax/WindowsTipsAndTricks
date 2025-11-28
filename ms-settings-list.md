@@ -6,8 +6,8 @@ Perfect for developers, power users, IT technicians, automation, and productivit
 
 
 ## How to use:
-  1. Just copy → paste in `Win` + `R`.
-  2. Create a new shortcut → paste it as a target path
+  Method 1:  Just copy → paste in `Win` + `R`.
+  Method 2:  Create a new shortcut → paste it as a target path
 
 
 
