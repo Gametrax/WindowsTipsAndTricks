@@ -20,6 +20,7 @@ This repository includes:
 
 * 🔹 Hidden Windows features
 * 🔹 Windows Run commands
+* 🔹 Windows Advanced Search Operators
 * 🔹 `ms-settings:` URI commands
 * 🔹 GodMode folders
 * 🔹 Admin tools shortcuts
