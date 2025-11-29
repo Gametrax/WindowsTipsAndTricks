@@ -7,7 +7,7 @@
 * `*keyword*`         Wildcard search                    
 * `"exact phrase"`    Exact phrase                       
 
----
+
 
 ## ✅ **2. File Type Search**
 
@@ -27,7 +27,7 @@
 * `kind:contacts`
 * `kind:notes`
 
----
+
 
 ## ✅ **3. Date Filters**
 
@@ -39,7 +39,7 @@
 * `datecreated:<2024-05-01`       Created before this date   
 * `date:2024-01-01..2024-03-01`   Between two dates          
 
----
+
 
 ## ✅ **4. Size Filters**
 
@@ -52,7 +52,7 @@
 * `size:>500MB`      Larger than 500MB    
 * `size:1MB..50MB`   Between 1 and 50 MB  
 
----
+
 
 ## ✅ **5. File Attributes**
 
@@ -67,14 +67,14 @@ Combine:
 attributes:system hidden
 ```
 
----
+
 
 ## ✅ **6. Folder Location Filters**
 
 * `folder:Downloads`   Only inside Downloads     
 * `path:C:\Work`       Search only in this path  
 
----
+
 
 ## ✅ **7. Metadata Search (Very Powerful)**
 
@@ -105,7 +105,7 @@ author:John
 title:"project plan"
 ```
 
----
+
 
 ## ✅ **8. Boolean Operators**
 
@@ -122,7 +122,7 @@ logo NOT old
 pdf OR docx
 ```
 
----
+
 
 ## ✅ **9. Combine Operators (Pro Level)**
 
@@ -150,7 +150,7 @@ ext:xlsx datecreated:2024-01-01..2024-05-31
 content:"invoice number"
 ```
 
----
+
 
 ## 💎 **Special Hidden Operators (Few People Know)**
 
