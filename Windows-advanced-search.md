@@ -2,26 +2,22 @@
 
 ## ✅ **1. File Name & Text Search**
 
-| Query             | What it does                      |
-| ----------------- | --------------------------------- |
-| `someword`        | Search file names + file contents |
-| `filename:report` | Search only in file names         |
-| `*keyword*`       | Wildcard search                   |
-| `"exact phrase"`  | Exact phrase                      |
+* `someword`          Search file names + file contents  
+* `filename:report`   Search only in file names          
+* `*keyword*`         Wildcard search                    
+* `"exact phrase"`    Exact phrase                       
 
 ---
 
 ## ✅ **2. File Type Search**
 
-| Query           | Use case                  |
-| --------------- | ------------------------- |
-| `ext:.pdf`      | Files with .pdf extension |
-| `kind:document` | All documents             |
-| `kind:picture`  | Images                    |
-| `kind:video`    | Videos                    |
-| `kind:music`    | Music files               |
-| `kind:program`  | EXE + apps                |
-| `type:pdf`      | PDF documents             |
+* `ext:.pdf`        Files with .pdf extension  
+* `kind:document`   All documents              
+* `kind:picture`    Images                     
+* `kind:video`      Videos                     
+* `kind:music`      Music files                
+* `kind:program`    EXE + apps                 
+* `type:pdf`        PDF documents              
 
 **Common file kinds:**
 
@@ -35,41 +31,35 @@
 
 ## ✅ **3. Date Filters**
 
-| Query                         | Meaning                   |
-| ----------------------------- | ------------------------- |
-| `datemodified:today`          | Modified today            |
-| `datemodified:yesterday`      | Modified yesterday        |
-| `datemodified:this week`      | This week                 |
-| `datemodified:2024`           | Any file modified in 2024 |
-| `datemodified:>1/1/2024`      | Modified after this date  |
-| `datecreated:<2024-05-01`     | Created before this date  |
-| `date:2024-01-01..2024-03-01` | Between two dates         |
+* `datemodified:today`            Modified today             
+* `datemodified:yesterday`        Modified yesterday         
+* `datemodified:this week`        This week                  
+* `datemodified:2024`             Any file modified in 2024  
+* `datemodified:>1/1/2024`        Modified after this date   
+* `datecreated:<2024-05-01`       Created before this date   
+* `date:2024-01-01..2024-03-01`   Between two dates          
 
 ---
 
 ## ✅ **4. Size Filters**
 
-| Query            | Meaning             |
-| ---------------- | ------------------- |
-| `size:tiny`      | 0–10 KB             |
-| `size:small`     | 10–100 KB           |
-| `size:medium`    | 100 KB–1 MB         |
-| `size:large`     | 1–16 MB             |
-| `size:huge`      | 16–128 MB           |
-| `size:gigantic`  | 128 MB+             |
-| `size:>500MB`    | Larger than 500MB   |
-| `size:1MB..50MB` | Between 1 and 50 MB |
+* `size:tiny`        0–10 KB              
+* `size:small`       10–100 KB            
+* `size:medium`      100 KB–1 MB          
+* `size:large`       1–16 MB              
+* `size:huge`        16–128 MB            
+* `size:gigantic`    128 MB+              
+* `size:>500MB`      Larger than 500MB    
+* `size:1MB..50MB`   Between 1 and 50 MB  
 
 ---
 
 ## ✅ **5. File Attributes**
 
-| Query                 | Meaning              |
-| --------------------- | -------------------- |
-| `attributes:readonly` | Only read-only files |
-| `attributes:system`   | System files         |
-| `attributes:hidden`   | Hidden files         |
-| `attributes:archive`  | Archive bit set      |
+* `attributes:readonly`   Only read-only files  
+* `attributes:system`     System files          
+* `attributes:hidden`     Hidden files          
+* `attributes:archive`    Archive bit set       
 
 Combine:
 
@@ -81,10 +71,8 @@ attributes:system hidden
 
 ## ✅ **6. Folder Location Filters**
 
-| Query              | Meaning                  |
-| ------------------ | ------------------------ |
-| `folder:Downloads` | Only inside Downloads    |
-| `path:C:\Work`     | Search only in this path |
+* `folder:Downloads`   Only inside Downloads     
+* `path:C:\Work`       Search only in this path  
 
 ---
 
@@ -121,12 +109,10 @@ title:"project plan"
 
 ## ✅ **8. Boolean Operators**
 
-| Query             | Meaning                         |
-| ----------------- | ------------------------------- |
-| `term1 AND term2` | Must contain both               |
-| `term1 OR term2`  | Either term                     |
-| `term1 NOT term2` | Include term1 but exclude term2 |
-| `term1 -term2`    | Same as NOT                     |
+* `term1 AND term2`   Must contain both                
+* `term1 OR term2`    Either term                      
+* `term1 NOT term2`   Include term1 but exclude term2  
+* `term1 -term2`      Same as NOT                      
 
 Examples:
 
@@ -168,14 +154,9 @@ content:"invoice number"
 
 ## 💎 **Special Hidden Operators (Few People Know)**
 
-| Query           | What it finds                       |
-| --------------- | ----------------------------------- |
-| `store:`        | Indexed locations                   |
-| `is:attachment` | Attached files in emails            |
-| `sharedwith:`   | Who the file is shared with         |
-| `tag:`          | Windows file tags                   |
-| `date:`         | Smart date filter (all date fields) |
+* `store:`          Indexed locations                    
+* `is:attachment`   Attached files in emails             
+* `sharedwith:`     Who the file is shared with          
+* `tag:`            Windows file tags                    
+* `date:`           Smart date filter (all date fields)  
 
----
-
-# Want me to generate a **cheat sheet image**, **PDF**, or **printable list**?
