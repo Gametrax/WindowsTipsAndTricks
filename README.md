@@ -12,7 +12,6 @@ Ideal for:
 * Run commands
 * Windows configuration
 * Troubleshooting
-* YouTube Shorts / Reels / TikTok tech content
 
 
 ## 🚀 **What’s Inside**
